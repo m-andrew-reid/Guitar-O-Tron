@@ -1,0 +1,6 @@
+main|GUITAR-O-TRON|Would you like to explore chords or tunings?|Make selection and press Enter.;1)Chords;2)Tunings|chordmain;tuningmain|screen
+chordmain|Chords and Chord Creation|Find chords on any tuning!|Make selection and press Enter.;1)Chord Information;2)Chord Finder;3)Return to Main Screen|chordinfo;chordfinder;main|screen
+chordinfo|Chord Composition| Chord Examples for Each Type of Chord|Press Enter to return to previous menu.|chordmain;main|display
+chordfinder|Chord Finder Tool|Title|Body|chordmain;main|action
+tuningmain|Tuning Main screen|Title|1)View Tunings;2)Custom Tunings;3)return to main|tuningview;tuningcreate;main|screen
+tuningview|View Tunings|Title|1)tunings go here; 2)return to main|tuningdisplay;main|screen
