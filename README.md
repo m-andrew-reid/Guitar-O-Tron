@@ -1,4 +1,8 @@
 # Guitar-O-Tron
+
+Link to Demonstration Video: https://youtu.be/LQ_5TH-m_Sc
+
+
 Run "GuitarOTronApp.java" to start
 
 Build custom tunings and find chords on any tuning.
